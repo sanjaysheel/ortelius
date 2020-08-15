@@ -14,6 +14,8 @@ The goals of the Ortelius Open Source Project are:
 
 ## Open Source Sub-Committees
 
+- Sanjay Sheel
+
 ### CD Environment - Development Infrastructure and Productivity
 
 Create a CD process for managing pull requests, builds, tests and releases.  
